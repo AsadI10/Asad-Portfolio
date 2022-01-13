@@ -504,8 +504,12 @@ body {
   text-decoration: underline;
   cursor: pointer;
 }
+.fa-angle-up {
+  margin-left: -3px;
+  margin-top: -7px;
+}
 /* responsive media query start */
-/* @media (max-width: 1104px) {
+@media (max-width: 1104px) {
   .about .about-content .left img {
     height: 350px;
     width: 350px;
@@ -627,4 +631,4 @@ body {
     font-size: 23px;
     line-height: 38px;
   }
-} */
+}
