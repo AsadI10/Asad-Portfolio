@@ -1,5 +1,5 @@
 function init() {
-    alert("Sorry but the BACKEND database it's not working, Please do not use it again, Just EMAIL me.")
+    alert("Sorry but the BACKEND database it's not working, Please do not TYPE in it again, Just EMAIL me.")
 }
 $(document).ready(function(){
     $(window).scroll(function(){
