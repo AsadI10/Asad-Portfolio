@@ -331,6 +331,9 @@ section .title::after {
 .skills-content .right .en::before {
   width: 100%;
 }
+.skills-content .right .cr::before {
+  width: 75%;
+}
 
 /* contact section styling */
 .contact .title::after {
