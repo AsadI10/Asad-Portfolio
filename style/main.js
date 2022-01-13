@@ -1,3 +1,6 @@
+function init() {
+    alert("Sorry but the BACKEND database it's not working, Please do not use it again, Just EMAIL me.")
+}
 $(document).ready(function(){
     $(window).scroll(function(){
         // sticky navbar on scroll script
