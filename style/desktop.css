@@ -632,3 +632,7 @@ body {
     line-height: 38px;
   }
 }
+.fa-angle-up {
+  margin-left: -5px;
+  margin-top: -7px;
+}
