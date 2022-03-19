@@ -169,7 +169,8 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("../Images/banner.jpg") no-repeat center;
+  /* background: url("../Images/banner.jpg") no-repeat center; */
+  background: black;
   height: 100vh;
   color: #fff;
   min-height: 500px;
@@ -323,16 +324,19 @@ section .title::after {
   width: 100%;
 }
 .skills-content .right .fr::before {
-  width: 50%;
+  width: 20%;
 }
 .skills-content .right .ur::before {
-  width: 80%;
+  width: 100%;
 }
 .skills-content .right .en::before {
   width: 100%;
 }
 .skills-content .right .cr::before {
   width: 75%;
+}
+.skills-content .right .php:before {
+  width: 35%;
 }
 
 /* contact section styling */
