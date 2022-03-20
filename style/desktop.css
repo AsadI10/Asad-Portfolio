@@ -643,3 +643,10 @@ body {
   margin-left: -5px;
   margin-top: -7px;
 }
+/*---------------------- Extra stuff added ----------------*/
+.Get {
+  cursor: pointer;
+}
+.Get:hover {
+  text-decoration: underline;
+}
