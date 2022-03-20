@@ -515,7 +515,7 @@ body {
   margin-left: -3px;
   margin-top: -7px;
 }
-/* responsive media query start */
+/* responsive media query start- Mobile Version */
 @media (max-width: 1104px) {
   .about .about-content .left img {
     height: 350px;
