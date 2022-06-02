@@ -3,7 +3,7 @@ function Git(){
     window.open("https://github.com/C1005646", '_blank').focus();
 }
 function init() {
-    alert("Sorry!!!but the BACKEND database it's not working, Please do not TYPE in it again, Just EMAIL me.")
+    alert("Sorry!!! But the BACKEND database is not 100% working, Please do not TYPE in it again, Just EMAIL me.")
 }
 $(document).ready(function(){
     $(window).scroll(function(){
