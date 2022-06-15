@@ -518,7 +518,7 @@ body {
 /* responsive media query start- Mobile Version */
 @media (max-width: 1104px) {
   .about .about-content .left img {
-    height: 350px;
+    height: 450px;
     width: 350px;
   }
 }
