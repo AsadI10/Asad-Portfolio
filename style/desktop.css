@@ -1,8 +1,14 @@
 /* Basic Knowledge{
  font-weight: is to make text bolder so bold or thick
  font-style- is italic etc.. maybe google to get some more example;
- font-family: is like Arial, calibri etc. can find good ones online.
+ font-family: is like Arial, calibri etc. can find good ones online. 
+ Padding is the space between the content and the border of an element.
+ To change padding on the left side of an element. use padding-left property. And for the right use padding-right
+ To change the padding at the top of an element. We use the padding-top property. AND Padding-bottom at the bottom element
+Margins generate space around an element, outside of any paddings and borders.
 } */
+
+
 /*  import google fonts */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap");
 * {
