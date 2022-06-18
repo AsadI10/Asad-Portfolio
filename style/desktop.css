@@ -6,6 +6,15 @@
  To change padding on the left side of an element. use padding-left property. And for the right use padding-right
  To change the padding at the top of an element. We use the padding-top property. AND Padding-bottom at the bottom element
 Margins generate space around an element, outside of any paddings and borders.
+padding goes around clockwise: Top, Right, bottom and Left so Padding: 10px, 10px, 10px 10px
+Tranform can rotate any image example: transform: rotate(10deg);;;; deg specify how many degrees.
+Filter can use few different functions value as one of them is blur(2px) to blur in image or text os trong text great use.
+Another filter is graysclae(100%). filter:grayscale(10%); 
+Filter Can use opacity how visible elements are.opacity(100%)and they become visible.
+Filter You can also use brightness(100%) this will change how bright image is or are.
+Another filter saturate adjust how vivid the colors are saturate(20%)
+Filter Contrast adjust the difference between light and dark
+You can create and change the background color from top to bottom, like background: linear-gradient(90 deg, sandyBrown, Black)
 } */
 
 
