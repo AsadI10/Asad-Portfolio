@@ -191,6 +191,7 @@ section .title::after {
 .home {
   display: flex;
   /* background: url("../Images/banner.jpg") no-repeat center; */
+  /* background: linear-gradient(90deg, #b09599 50%, #9de305 50%); */
   background: black;
   height: 100vh;
   color: #fff;
