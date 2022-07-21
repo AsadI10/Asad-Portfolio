@@ -124,7 +124,7 @@ section .title::after {
   color: rgb(0, 47, 255);
   font-size: 35px;
   font-weight: 600;
-  text-shadow: 2px 2px 2px rgb(115, 212, 58);
+  text-shadow: 2px 2px 2px #73d43a;
 }
 .navbar .logo a span {
   color: crimson;
