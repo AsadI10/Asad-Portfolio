@@ -42,14 +42,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Student", "Programmer"],
-        typeSpeed: 100,
+        strings: ["Student", "Programmer", "Web Developer"],
+        typeSpeed: 120,
         backSpeed: 40,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Student", "Programmer"],
-        typeSpeed: 100,
+        strings: ["Student", "Programmer", "Web Developer"],
+        typeSpeed: 120,
         backSpeed: 40,
         loop: true
     });
