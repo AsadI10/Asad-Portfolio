@@ -1,6 +1,6 @@
 function Git(){
     // location.href = "https://github.com/C1005646";
-    window.open("https://github.com/C1005646", '_blank').focus();
+    window.open("https://github.com/AsadI10", '_blank').focus();
 }
 function init() {
     alert("Sorry!!! But the BACKEND database is not 100% working, Please do not TYPE in it again, Just EMAIL me.")
